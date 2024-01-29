@@ -1,0 +1,13 @@
+.container {
+    background-color: seagreen;
+
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 30px;
+    font-weight: bold;
+}
