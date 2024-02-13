@@ -40,3 +40,9 @@
     border: none;
     font-weight: bold;
 }
+
+@media (max-width: 768px) {
+    .container {
+      flex-direction: column;
+    }
+  }
